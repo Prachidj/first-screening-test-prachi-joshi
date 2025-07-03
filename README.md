@@ -1,5 +1,5 @@
 # first-screening-test-prachi-joshi
-First Screening Test - Your_Name/
+First Screening Test - prachi-joshi/
 │
 ├── Users\Yash\Desktop\Prachi Joshi\gh
 │   ├── section1-desktop.png
